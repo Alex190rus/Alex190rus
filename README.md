@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Alex190rus
-- 👀 I’m interested in ...
 - Я учусь на SkillFactory
 
 <!---
